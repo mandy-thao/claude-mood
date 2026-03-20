@@ -3,7 +3,7 @@
 
 set -e
 
-REPO="https://raw.githubusercontent.com/YOUR_USERNAME/claude-mood/main"
+REPO="https://raw.githubusercontent.com/mandy-thao/claude-mood/main"
 MOOD_DIR="$HOME/.claude/mood"
 COMMANDS_DIR="$HOME/.claude/commands"
 SETTINGS="$HOME/.claude/settings.json"

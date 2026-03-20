@@ -17,7 +17,7 @@ A statusline theme system for [Claude Code](https://claude.ai/code). Three theme
 Requires [jq](https://stedolan.github.io/jq/): `brew install jq`
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/claude-mood/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/mandy-thao/claude-mood/main/install.sh | bash
 ```
 
 Restart Claude Code after installing.
