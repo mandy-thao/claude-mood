@@ -2,15 +2,13 @@
 
 statusline theme system for claude code in terminal. three starter themes and a `/mood` command to switch between them. all theme files live at `~/.claude/mood/`. ask Claude to edit them or create new ones — change colors, icons, titles, or anything else.
 
-![claude-mood preview](./assets/claude-mood.png)
-
-## themes
-
 **cute** — soft pastels. rotating titles: *the path is kind · growing gently · all is soft*
 
 **punk** — neon and bright. rotating titles: *keep it hot · so wired · let's rip*
 
 **minimal** — clean and quiet. rotating titles: *clear and quiet · steady as i go · moving with intent*
+
+![claude-mood preview](./assets/claude-mood.png)
 
 ## install
 
