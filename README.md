@@ -14,13 +14,19 @@ A statusline theme system for [Claude Code](https://claude.ai/code). Three theme
 
 ## install
 
-Requires [jq](https://stedolan.github.io/jq/): `brew install jq`
+**1. Make sure you have jq installed** (required for the statusline to read session data)
+```bash
+brew install jq
+```
 
+**2. Run the installer**
 ```bash
 curl -fsSL https://raw.githubusercontent.com/mandy-thao/claude-mood/main/install.sh | bash
 ```
 
-Restart Claude Code after installing.
+**3. Restart Claude Code** — the statusline will appear at the bottom of your window.
+
+That's it! You'll start on the `cute` theme. Switch anytime with `/mood`.
 
 ## usage
 
