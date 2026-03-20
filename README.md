@@ -1,6 +1,6 @@
 # claude-mood
 
-statusline theme system for claude code. Three starter themes and a `/mood` command to switch between them.
+statusline theme system for claude code in terminal. three starter themes and a `/mood` command to switch between them.
 
 ## themes
 
