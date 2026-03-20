@@ -2,6 +2,8 @@
 
 statusline theme system for claude code in terminal. three starter themes and a `/mood` command to switch between them.
 
+![claude-mood preview](./assets/claude-mood.png)
+
 ## themes
 
 **cute** — soft pastels. rotating titles: *the path is kind · growing gently · all is soft*
