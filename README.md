@@ -2,8 +2,6 @@
 
 statusline theme system for [Claude Code](https://claude.ai/code). Three starter themes and a `/mood` command to switch between them.
 
-![themes: minimal · cute · punk]
-
 ## themes
 
 **cute** — soft pastels. rotating titles: *the path is kind · growing gently · all is soft*
