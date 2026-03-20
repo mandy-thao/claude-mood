@@ -1,6 +1,6 @@
 # claude-mood
 
-statusline theme system for claude code in terminal. three starter themes and a `/mood` command to switch between them.
+statusline theme system for claude code in terminal. three starter themes and a `/mood` command to switch between them. all theme files live at `~/.claude/mood/`. ask Claude to edit them or create new ones — change colors, icons, titles, or anything else.
 
 ![claude-mood preview](./assets/claude-mood.png)
 
@@ -40,10 +40,6 @@ to preview all available colors in your terminal:
 ```bash
 bash ~/.claude/mood/show-colors.sh
 ```
-
-## customizing
-
-all theme files live at `~/.claude/mood/`. ask Claude to edit them or create new ones — change colors, icons, titles, or anything else.
 
 ## what's in the statusline
 
