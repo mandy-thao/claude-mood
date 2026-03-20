@@ -12,7 +12,7 @@ statusline theme system for claude code in terminal. three starter themes and a 
 
 ## install
 
-**1. make sure you have jq installed (you probably do)** (required for the statusline to read session data)
+**1. make sure you have jq installed** (required for the statusline to read session data)
 ```bash
 brew install jq
 ```
